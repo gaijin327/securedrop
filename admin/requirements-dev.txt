@@ -201,9 +201,9 @@ flaky==3.8.1 \
     --hash=sha256:194ccf4f0d3a22b2de7130f4b62e45e977ac1b5ccad74d4d48f3005dcc38815e \
     --hash=sha256:47204a81ec905f3d5acfbd61daeabcada8f9d4031616d9bcb0618461729699f5
     # via -r requirements-dev.in
-idna==3.10 \
-    --hash=sha256:12f65c9b470abda6dc35cf8e63cc574b1c52b11df2c86030af0ac09b01b13ea9 \
-    --hash=sha256:946d195a0d259cbba61165e88e65941f16e9b36ea6ddb97f00452bae8b1287d3
+idna==3.15 \
+    --hash=sha256:048adeaf8c2d788c40fee287673ccaa74c24ffd8dcf09ffa555a2fbb59f10ac8 \
+    --hash=sha256:ca962446ea538f7092a95e057da437618e886f4d349216d2b1e294abfdb65fdc
     # via requests
 iniconfig==2.1.0 \
     --hash=sha256:3abbd2e30b36733fee78f9c7f7308f2d0050e88f0087fd25c2645f63c773e1c7 \
@@ -231,10 +231,6 @@ packaging==25.0 \
 pexpect==4.9.0 \
     --hash=sha256:7236d1e080e4936be2dc3e326cec0af72acf9212a7e1d060210e70a47e253523 \
     --hash=sha256:ee7d41123f3c9911050ea2c2dac107568dc43b2d3b0c7557a33212c398ead30f
-    # via -r requirements-dev.in
-pip==26.0 \
-    --hash=sha256:3ce220a0a17915972fbf1ab451baae1521c4539e778b28127efa79b974aff0fa \
-    --hash=sha256:98436feffb9e31bc9339cf369fd55d3331b1580b6a6f1173bacacddcf9c34754
     # via -r requirements-dev.in
 platformdirs==4.3.8 \
     --hash=sha256:3d512d96e16bcb959a814c9f348431070822a6496326a4be0911c40b5a74c2bc \
@@ -269,10 +265,6 @@ pytest==7.2.0 \
 requests==2.32.5 \
     --hash=sha256:2462f94637a34fd532264295e186976db0f5d453d1cdd31473c85a6a161affb6 \
     --hash=sha256:dbba0bac56e100853db0ea71b82b4dfd5fe2bf6d3754a8893c3af500cec7d7cf
-    # via -r requirements-dev.in
-setuptools==80.9.0 \
-    --hash=sha256:062d34222ad13e0cc312a4c02d73f059e86a4acbfbdea8f8f76b28c99f306922 \
-    --hash=sha256:f36b47402ecde768dbfafc46e8e4207b4360c654f1f3bb84475f0a28628fb19c
     # via -r requirements-dev.in
 six==1.17.0 \
     --hash=sha256:4721f391ed90541fddacab5acf947aa0d3dc7d27b2e1e8eda2be8970586c3274 \
