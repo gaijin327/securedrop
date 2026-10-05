@@ -3,4 +3,4 @@ pytest-testinfra==10.2.2
 py>=1.10.0
 pytest-xdist==2.1.0
 pynacl>=1.6.2
-paramiko>=2.10.1
+paramiko>=5.0.0
