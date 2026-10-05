@@ -8,7 +8,7 @@ pytest==7.2.0
 requests>=2.30.0
 tox==3.28.0
 pexpect
-setuptools>=78.1.1
+setuptools>=83.0.0
 uv
 
 # If this needs updating, search this repository for other references to "pip"
